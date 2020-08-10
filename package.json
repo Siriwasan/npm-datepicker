@@ -1,19 +1,20 @@
 {
   "$schema": "./node_modules/ng-packagr/package.schema.json",
-  "name": "@coachcare/datepicker",
-  "version": "0.9.9",
-  "description": "Angular Material Datepicker Fork with Timepicker by CoachCare",
+  "name": "@Siriwasan/datepicker",
+  "version": "0.10.0",
+  "description": "Angular Material Datepicker Fork with Timepicker by Siriwasan, Original by CoachCare",
   "keywords": [
     "coachcare",
+    "siriwasan",
     "frontend",
     "datepicker"
   ],
-  "author": "CoachCare.com",
-  "homepage": "https://www.coachcare.com",
+  "author": "siriwasan.com",
+  "homepage": "https://www.siriwasan.com",
   "license": "MIT",
-  "repository": "github:selvera/npm-datepicker",
+  "repository": "https://github.com/Siriwasan/npm-datepicker",
   "bugs": {
-    "url": "https://github.com/selvera/npm-datepicker/issues"
+    "url": "https://github.com/Siriwasan/npm-datepicker/issues"
   },
   "scripts": {
     "ng": "ng",
